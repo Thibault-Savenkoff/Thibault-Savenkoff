@@ -1,7 +1,7 @@
-### Hello, my name is Thibault - aka [TS/TSGAMEMING]
+### Hello, my name is Thibault - aka TS/TSGAMEMING
 
 ## I'm a Student in High School (9th Grade) or "3ème" in France!
-- 💼 I'm currently working on [Work]!
+- 💼 I'm currently working on !
 - 😀 My principal work is developing application or animated wallpaper.
 - 😄 But, I prefer do this with my team.
 
