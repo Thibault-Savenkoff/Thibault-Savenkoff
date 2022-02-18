@@ -5,6 +5,11 @@
 - 😀 My principal work is developing application or animated wallpaper.
 - 😄 But, I prefer do this with my team.
 
+<br />
+
+
+[![Les Stats GitHub de Thibault-Savenkoff](https://github-readme-stats.vercel.app/api?username=Thibault-Savenkoff&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Talk with me on:
 
 [<img align="left" alt="Discord" width="50px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />][discord]
@@ -34,3 +39,9 @@
 [java]: https://www.java.com
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
+
+<br />
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibault-Savenkoff&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
