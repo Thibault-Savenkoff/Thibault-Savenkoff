@@ -3,7 +3,7 @@
 ## I'm a Student in High School (9th Grade) or "3ème" in France!
 - 💼 I'm currently working on [Work]!
 - 😀 My principal work is developing application or animated wallpaper.
-- 😄 But, I prefer do this we my team.[TS]
+- 😄 But, I prefer do this with my team. [<img align="left" alt="TS" width="22px" src="https://avatars.githubusercontent.com/u/66522110?s=200&v=4" />][TS]
 
 ### Talk with me on:
 
