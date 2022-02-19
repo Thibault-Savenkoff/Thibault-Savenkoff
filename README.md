@@ -1,4 +1,4 @@
-### Hello, my name is Thibault - aka TS/TSGAMEMING
+### Hello, my name is Thibault - aka TS™/TSGAMEMING™
 
 ## I'm a Student in High School (9th Grade) or "3ème" in France!
 - 💼 I'm currently working on !
