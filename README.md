@@ -1,7 +1,7 @@
 ### Hello, my name is Thibault - aka TS™/TSGAMEMING™
 
 ## I'm a Student in High School (9th Grade) or "3ème" in France!
-- 💼 I'm currently working on !
+- 💼 I'm currently working on Nothing 😅!
 - 😀 My principal work is developing application or animated wallpaper.
 - 😄 But, I prefer do this with my team.
 
@@ -30,7 +30,6 @@
 <br />
 <br />
 
-[TS]: https://github.com/Technologie-System
 [discord]: https://discord.gg/VJPs7WvmzS
 [vscode]: https://code.visualstudio.com
 [vs]: https://visualstudio.microsoft.com
