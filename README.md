@@ -1,6 +1,6 @@
 ### Hello, my name is Thibault - aka TS™/TSGAMEMING™
 
-## I'm a Student in High School (9th Grade) or "3ème" in France!
+## I'm a Student in High School (9th Grade)!
 - 💼 I'm currently working on Nothing 😅!
 - 😀 My principal work is developing application or animated wallpaper.
 - 😄 But, I prefer do this with my team.
