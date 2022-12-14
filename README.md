@@ -1,8 +1,8 @@
 ### Hello, my name is Thibault - aka TS™/TSGAMEMING™
 
 ## I'm a Student in High School (9th Grade)!
-- 💼 I'm currently working on [Mesa Security] 😃!
-- 😀 My principal work is developing application or animated wallpaper.
+- 💼 I'm currently working on ![status](https://badge.stateful.com/Thibault-Savenkoff/status.svg) 😃!
+- 😀 My principal work is developing application or create [animated wallpaper].
 - 😄 But, I prefer do this with my team.
 
 <br />
@@ -40,10 +40,4 @@
 [java]: https://www.java.com
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
-[Mesa Security]: https://github.com/Technologie-System/Mesa-Security
-
-<br />
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibault-Savenkoff&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[animated wallpaper]: https://steamcommunity.com/id/TSGAMEMING/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfiles&view=imagewall
