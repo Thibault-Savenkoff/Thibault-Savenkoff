@@ -1,7 +1,7 @@
 ### Hello, my name is Thibault - aka TS™/TSGAMEMING™
 
 ## I'm a Student in High School (9th Grade)!
-- 💼 I'm currently working on ![status](https://badge.stateful.com/Thibault-Savenkoff/status.svg) 😃!
+- 💼 I'm currently ![status](https://badge.stateful.com/Thibault-Savenkoff/status.svg) 😃!
 - 😀 My principal work is developing application or create [animated wallpaper].
 - 😄 But, I prefer do this with my team.
 
