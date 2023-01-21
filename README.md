@@ -1,5 +1,7 @@
 ### Hello, my name is Thibault - aka TSGAMEMING™
 
+### I can't work anymore because the Motherboard or the GPU of my PC is dead.
+
 ## I'm a Student in High School (10th Grade)!
 - 💼 I'm currently ![status](https://badge.stateful.com/Thibault-Savenkoff/status.svg) 😃!
 - 😀 My principal work is developing application or create [animated wallpaper].
