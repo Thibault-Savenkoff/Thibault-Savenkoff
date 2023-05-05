@@ -1,40 +1,18 @@
-### Hello, my name is Thibault - aka TSGAMEMING™
+## About Me
+- Hi there, I'm Thibault Savenkoff, a student from France currently in 10th Grade ([Soon?](https://pastebin.com/raw/tJWgJ0mE))
+- I'm passionate about programming and love to work on various projects on GitHub.
+- <img src="https://badge.stateful.com/Thibault-Savenkoff/status.svg"/>
 
-## I'm a Student in High School (10th Grade)!
-- 💼 I'm currently ![status](https://badge.stateful.com/Thibault-Savenkoff/status.svg) 😃!
-- 😀 My principal work is developing application or create [animated wallpaper].
-- 😄 But, I prefer do this with my team.
+## Skills
+- Although I am still new to programming, I am proficient in several programming languages, including Python, Java, and Visual Basic.
+- I also have experience with web development using HTML, CSS, and JavaScript.
 
-### I created [Useless Projects] for my Useless Projects. 😐
+## Projects
+- I have a GitHub organization called "[Useless Projects](https://www.github.com/Useless-Projects)" where I post my various projects, including [GPS Frame Parser](https://github.com/Useless-Projects/GPS-Frame-Parser) (a NMEA frame decoder) and other useless projects.
+- I'm always working on new projects, and I'm constantly improving my skills by learning new things and experimenting with different technologies.
 
-### Talk with me on:
-
-[<img align="left" alt="Discord" width="50px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />][discord]
-
-<br />
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
-[<img align="left" alt="Visual Studio" width="50px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />][vs]
-[<img align="left" alt="Eclipse" width="50px" src="https://www.pinclipart.com/picdir/big/336-3365154_eclipse-arm-development.png" />][eclipse]
-[<img align="left" alt="Lua" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />][lua]
-[<img align="left" alt="C#" width="50px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />][csharp]
-[<img align="left" alt="JS" width="50px" src="https://icon-icons.com/downloadimage.php?id=130900&root=2108/PNG/512/&file=javascript_icon_130900.png" />][javascript]
-[<img align="left" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][python]
-
-<br />
-<br />
-
-[discord]: https://www.discord.gg/VJPs7WvmzS
-[vscode]: https://code.visualstudio.com
-[vs]: https://visualstudio.microsoft.com
-[eclipse]: https://www.eclipse.org/eclipseide
-[lua]: https://www.lua.org/
-[csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-[java]: https://www.java.com
-[javascript]: https://en.wikipedia.org/wiki/JavaScript
-[python]: https://en.wikipedia.org/wiki/Python_(programming_language)
-[animated wallpaper]: https://www.steamcommunity.com/id/TSGAMEMING/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfiles&view=imagewall
-[Useless Projects]: https://www.github.com/Useless-Projects
+## Interests
+- In my free time, I enjoy playing video games, particularly FPS (CoD), simulation (ETS2, BS21), and sandbox games (Gmod, Satisfactory).
+- I also love creating animated wallpapers on [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine), and you can check out some of my work on [my workshop page](https://www.steamcommunity.com/id/TSGAMEMING/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfiles&view=imagewall).
+- Additionally, I enjoy creating maps on [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website) to improve my skills for modding in Source games.
+- Lastly, I love reading manga.
