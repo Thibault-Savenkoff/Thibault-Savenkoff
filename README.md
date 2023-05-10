@@ -12,7 +12,7 @@
 - I'm always working on new projects, and I'm constantly improving my skills by learning new things and experimenting with different technologies.
 
 ## Interests
-- In my free time, I enjoy playing video games, particularly FPS (CoD), simulation (ETS2, BS21), and sandbox games (Gmod, Satisfactory).
+- In my free time, I enjoy playing video games, particularly FPS (CoD), simulation (ETS2, Bus Sim 21), and sandbox games (Gmod, Satisfactory).
 - I also love creating animated wallpapers on [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine), and you can check out some of my work on [my workshop page](https://www.steamcommunity.com/id/TSGAMEMING/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfiles&view=imagewall).
 - Additionally, I enjoy creating maps on [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website) to improve my skills for modding in Source games.
 - Lastly, I love reading manga.
