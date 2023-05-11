@@ -16,3 +16,7 @@
 - I also love creating animated wallpapers on [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine), and you can check out some of my work on [my workshop page](https://www.steamcommunity.com/id/TSGAMEMING/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfiles&view=imagewall).
 - Additionally, I enjoy creating maps on [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website) to improve my skills for modding in Source games.
 - Lastly, I love reading manga.
+
+[![Les Stats GitHub de Thibault](https://github-readme-stats.vercel.app/api?username=Thibault-Savenkoff&show_icons=true&theme=solarized-dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibault-Savenkoff&theme=solarized-dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
