@@ -1,7 +1,7 @@
 ## About Me
 - Hi there, I'm Thibault Savenkoff, a student from France currently in 10th Grade ([Soon?](https://pastebin.com/raw/tJWgJ0mE))
 - I'm passionate about programming and love to work on various projects on GitHub.
-- <img src="https://badge.stateful.com/Thibault-Savenkoff/status.svg"/>
+- [![Status for @Thibault-Savenkoff](https://badge.stateful.com/Thibault-Savenkoff/status.svg)](https://app.stateful.com/@Thibault-Savenkoff)
 
 ## Skills
 - Although I am still new to programming, I am proficient in several programming languages, including Python, Java, and Visual Basic.
@@ -17,6 +17,6 @@
 - Additionally, I enjoy creating maps on [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website) to improve my skills for modding in Source games.
 - Lastly, I love reading manga.
 
-[![Les Stats GitHub de Thibault](https://github-readme-stats.vercel.app/api?username=Thibault-Savenkoff&show_icons=true&theme=solarized-dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Thibault](https://github-readme-stats.vercel.app/api?username=Thibault-Savenkoff&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibault-Savenkoff&theme=solarized-dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibault-Savenkoff&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
