@@ -17,6 +17,9 @@
 - Additionally, I enjoy creating maps on [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website) to improve my skills for modding in Source games.
 - Lastly, I love reading manga.
 
-[![Les Stats GitHub de Thibault](https://github-readme-stats.vercel.app/api?username=Thibault-Savenkoff&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Contact
+To contact me, you can write me an [email](mailto:thibault.savenkoff@outlook.fr) or send me a dm on Discord (Username: `tsgameming`)
 
+---
+[![Stats' of Thibault](https://github-readme-stats.vercel.app/api?username=Thibault-Savenkoff&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibault-Savenkoff&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
